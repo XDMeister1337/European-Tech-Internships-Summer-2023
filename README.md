@@ -13,4 +13,5 @@ Feel free to contribute by sending a [pull request](https://github.com/susam/git
 | [Gina AI](https://jobs.lever.co/jina-ai/c77afedf-ccd5-44de-b40b-9d02c29c33e0) | Germany | Python Engineer Intern (f/m/d) |
 | [Lilium](https://lilium.com/jobs/3843596) | Germany | Intern - Software Engineering |
 | [McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/intern-digitaltechnology-51626) | Switzerland | Digital Technology |
+| [Microsoft](https://careers.microsoft.com/students/us/en/job/1383150/Intern-Opportunities-for-Students-in-Estonia-Software-Engineering-Start-date-Summer-2023) | Estonia | Software Engineering |
 
