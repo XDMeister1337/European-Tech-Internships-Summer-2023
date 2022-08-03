@@ -12,4 +12,5 @@ Feel free to contribute by sending a [pull request](https://github.com/susam/git
 | [Gina AI](https://jobs.lever.co/jina-ai/8517d648-ee28-48c0-9246-4f90ef87edec) | Germany | Software Engineer Intern |
 | [Gina AI](https://jobs.lever.co/jina-ai/c77afedf-ccd5-44de-b40b-9d02c29c33e0) | Germany | Python Engineer Intern (f/m/d) |
 | [Lilium](https://lilium.com/jobs/3843596) | Germany | Intern - Software Engineering |
+| [McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/intern-digitaltechnology-51626) | Switzerland | Digital Technology |
 
