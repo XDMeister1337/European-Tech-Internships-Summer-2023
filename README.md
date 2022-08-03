@@ -15,4 +15,8 @@ Feel free to contribute by sending a [pull request](https://github.com/susam/git
 | [McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/intern-digitaltechnology-51626) | Switzerland | Digital Technology |
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/1383150/Intern-Opportunities-for-Students-in-Estonia-Software-Engineering-Start-date-Summer-2023) | Estonia | Software Engineering |
 | [Accenture](https://www.accenture.com/be-en/careers/jobdetails?id=R00114886_en&title=Security+Internship) | Belgium | Security Internship |
+| [Accenture](https://www.accenture.com/be-en/careers/jobdetails?id=R00088580_en&title=Technology+Internship) | Belgium | Technology Internship |
+| [Accenture](https://www.accenture.com/cz-en/careers/jobdetails?id=R00037864_en&title=Technology+Consulting+Analyst) | Czech Republic | Technology Consulting Analyst |
+| [Accenture](https://www.accenture.com/nl-en/careers/jobdetails?id=R00068723_en&title=Design+Engineer+Internship) | Czech Republic | Design Engineer Internship |
+
 
