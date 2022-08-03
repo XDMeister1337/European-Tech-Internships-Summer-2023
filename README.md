@@ -1,6 +1,6 @@
 # European-Tech-Internships-Summer-2023
 I've seen a lot of tech internship repos focused on US and Canada. I thought students in Europe may benefit from a similar repo. 
-Feel free to contribute by sending a [pull request](https://github.com/susam/gitpr#create-pull-request).
+Feel free to contribute by sending a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
 
 # The List
