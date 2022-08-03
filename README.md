@@ -14,4 +14,5 @@ Feel free to contribute by sending a [pull request](https://github.com/susam/git
 | [Lilium](https://lilium.com/jobs/3843596) | Germany | Intern - Software Engineering |
 | [McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/intern-digitaltechnology-51626) | Switzerland | Digital Technology |
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/1383150/Intern-Opportunities-for-Students-in-Estonia-Software-Engineering-Start-date-Summer-2023) | Estonia | Software Engineering |
+| [Accenture](https://www.accenture.com/be-en/careers/jobdetails?id=R00114886_en&title=Security+Internship) | Belgium | Security Internship |
 
