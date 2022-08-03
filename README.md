@@ -11,5 +11,5 @@ Feel free to contribute by sending a [pull request](https://github.com/susam/git
 | [Avast](https://avast.wd3.myworkdayjobs.com/en-US/Global/job/Brno-Czech-Republic/Development-Intern_JR1922) | Czech Republic | Development Intern |
 | [Gina AI](https://jobs.lever.co/jina-ai/8517d648-ee28-48c0-9246-4f90ef87edec) | Germany | Software Engineer Intern |
 | [Gina AI](https://jobs.lever.co/jina-ai/c77afedf-ccd5-44de-b40b-9d02c29c33e0) | Germany | Python Engineer Intern (f/m/d) |
-| (Lilium)[https://lilium.com/jobs/3843596] | Germany | Intern - Software Engineering |
+| [Lilium](https://lilium.com/jobs/3843596) | Germany | Intern - Software Engineering |
 
