@@ -25,3 +25,4 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Mckinsey](https://www.mckinsey.com/careers/search-jobs/jobs/fellowintern-mckinseydigital-58527) | Germany,Austria(Vienna) | Fellow Intern - McKinsey Digital |
 | [Mckinsey](https://www.mckinsey.com/careers/search-jobs/jobs/associateintern-mckinseydigital-58530) | Germany,Austria(Vienna) | Associate Intern - McKinsey Digital |
 | [IBM](https://careers.ibm.com/job/15100703/ibm-internship-project-management-officer-bucharest-ro/?codes=IBM_CareerWebSite) | Bucharest | Project Management Officer |
+| [Deloitte](https://jobs.deloitte.lu/job/Luxembourg-Fullstack-Developer-Intern-Angular_Net-%28mf%29-Internship-based-in-Luxembourg/820543901/) | Luxembourg | Fullstack Developer Intern |
