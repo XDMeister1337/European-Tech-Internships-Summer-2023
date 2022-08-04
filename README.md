@@ -24,3 +24,4 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/1383756/Intern-Opportunities-for-Students-Ireland-Software-Engineering-Start-date-Summer-2023) | Ireland | Software Engineering |
 | [Mckinsey](https://www.mckinsey.com/careers/search-jobs/jobs/fellowintern-mckinseydigital-58527) | Germany,Austria(Vienna) | Fellow Intern - McKinsey Digital |
 | [Mckinsey](https://www.mckinsey.com/careers/search-jobs/jobs/associateintern-mckinseydigital-58530) | Germany,Austria(Vienna) | Associate Intern - McKinsey Digital |
+| [IBM](https://careers.ibm.com/job/15100703/ibm-internship-project-management-officer-bucharest-ro/?codes=IBM_CareerWebSite) | Bucharest | Project Management Officer |
