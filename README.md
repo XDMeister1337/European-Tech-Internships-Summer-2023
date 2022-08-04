@@ -19,4 +19,5 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Accenture](https://www.accenture.com/cz-en/careers/jobdetails?id=R00037864_en&title=Technology+Consulting+Analyst) | Czech Republic | Technology Consulting Analyst |
 | [Accenture](https://www.accenture.com/nl-en/careers/jobdetails?id=R00068723_en&title=Design+Engineer+Internship) | Czech Republic | Design Engineer Internship |
 | [Microsoft](https://careers.microsoft.com/us/en/job/1431527/Intern-Opportunities-for-Students-UK-Software-Engineering-Start-date-Summer-2023?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed) | United Kingdom | Software Engineering|
-
+| [Mircosoft](https://careers.microsoft.com/students/us/en/job/1383736/Software-Engineering-Internship-Opportunities-Romania-Start-date-Summer-2023) | Romania | Software Engineering|
+| [Microsoft](https://careers.microsoft.com/students/us/en/job/1382783/Intern-Opportunities-for-Students-in-Norway-Software-Engineering-Start-Date-Summer-2023) | Norway | Software Engineering |
