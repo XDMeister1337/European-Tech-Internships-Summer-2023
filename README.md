@@ -21,3 +21,4 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Microsoft](https://careers.microsoft.com/us/en/job/1431527/Intern-Opportunities-for-Students-UK-Software-Engineering-Start-date-Summer-2023?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed) | United Kingdom | Software Engineering|
 | [Mircosoft](https://careers.microsoft.com/students/us/en/job/1383736/Software-Engineering-Internship-Opportunities-Romania-Start-date-Summer-2023) | Romania | Software Engineering|
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/1382783/Intern-Opportunities-for-Students-in-Norway-Software-Engineering-Start-Date-Summer-2023) | Norway | Software Engineering |
+| [Microsoft](https://careers.microsoft.com/students/us/en/job/1383756/Intern-Opportunities-for-Students-Ireland-Software-Engineering-Start-date-Summer-2023) | Ireland | Software Engineering |
