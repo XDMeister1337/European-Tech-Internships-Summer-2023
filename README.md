@@ -29,3 +29,4 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Apple](https://jobs.apple.com/en-us/details/200308667/soc-digital-design-intern?team=HRDWR) | Germany | SOC Digital Design Intern |
 | [IBM](https://careers.ibm.com/job/16350702/research-intern-2023-start-mulhuddart-ie/?codes=JB_Indeed) | Ireland | Research Intern |
 | [IBM](https://careers.ibm.com/job/16035211/paid-internship-devops-engineer-remote/?codes=IBM_CareerWebSite) | Lithuania | DevOps Engineer |
+| [Nordic Semiconductor](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=278&ProjectId=177144&DepartmentId=7392&MediaId=5&SkipAdvertisement=False) | United Kingdom | Digital Design Placement |
