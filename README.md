@@ -30,3 +30,6 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [IBM](https://careers.ibm.com/job/16350702/research-intern-2023-start-mulhuddart-ie/?codes=JB_Indeed) | Ireland | Research Intern |
 | [IBM](https://careers.ibm.com/job/16035211/paid-internship-devops-engineer-remote/?codes=IBM_CareerWebSite) | Lithuania | DevOps Engineer |
 | [Nordic Semiconductor](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=278&ProjectId=177144&DepartmentId=7392&MediaId=5&SkipAdvertisement=False) | United Kingdom | Digital Design Placement |
+| [DRW](https://drw.com/work-at-drw/job/software-developer-intern-2317368/) | London, United Kingdom | Software Developer Intern |
+| [DRW](https://drw.com/work-at-drw/job/quantitative-trading-analyst-intern-2317347/) | London, United Kingdom | Quantitative Trading Analyst Intern |
+
