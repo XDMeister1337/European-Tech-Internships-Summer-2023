@@ -28,3 +28,4 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Deloitte](https://jobs.deloitte.lu/job/Luxembourg-Fullstack-Developer-Intern-Angular_Net-%28mf%29-Internship-based-in-Luxembourg/820543901/) | Luxembourg | Fullstack Developer Intern |
 | [Apple](https://jobs.apple.com/en-us/details/200308667/soc-digital-design-intern?team=HRDWR) | Germany | SOC Digital Design Intern |
 | [IBM](https://careers.ibm.com/job/16350702/research-intern-2023-start-mulhuddart-ie/?codes=JB_Indeed) | Ireland | Research Intern |
+| [IBM](https://careers.ibm.com/job/16035211/paid-internship-devops-engineer-remote/?codes=IBM_CareerWebSite) | Lithuania | DevOps Engineer |
