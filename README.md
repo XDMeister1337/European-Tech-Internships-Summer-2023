@@ -33,4 +33,5 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [DRW](https://drw.com/work-at-drw/job/software-developer-intern-2317368/) | London, United Kingdom | Software Developer Intern |
 | [DRW](https://drw.com/work-at-drw/job/quantitative-trading-analyst-intern-2317347/) | London, United Kingdom | Quantitative Trading Analyst Intern |
 | [Citrix](https://jobs.citrix.com/jobs/software-engineer-intern-cambridge-2023-cambridge-cambridgeshire-united-kingdom?source=indeed) | United Kingdom | Software Engineer Intern |
+| [Citadel](https://www.glassdoor.com/Job/united-kingdom-software-intern-jobs-SRCH_IL.0,14_IN2_KO15,30.htm?fromAge=30) | Europe | Software Engineer – Intern |
 
