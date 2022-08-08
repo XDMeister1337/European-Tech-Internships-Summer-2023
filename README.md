@@ -35,4 +35,4 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Citrix](https://jobs.citrix.com/jobs/software-engineer-intern-cambridge-2023-cambridge-cambridgeshire-united-kingdom?source=indeed) | United Kingdom | Software Engineer Intern |
 | [Citadel](https://www.glassdoor.com/Job/united-kingdom-software-intern-jobs-SRCH_IL.0,14_IN2_KO15,30.htm?fromAge=30) | Europe | Software Engineer – Intern |
 | [Apple](https://jobs.apple.com/en-us/details/200401361/gpu-rtl-design-intern?team=HRDWR) | United Kingdom | GPU RTL Design Intern |
-
+| [Softwire](https://www.softwire.com/vacancy/software-development-internship-2/) | London, United Kingdom | Software Development Internship |
