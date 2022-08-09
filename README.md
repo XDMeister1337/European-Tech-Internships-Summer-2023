@@ -37,3 +37,4 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Apple](https://jobs.apple.com/en-us/details/200401361/gpu-rtl-design-intern?team=HRDWR) | United Kingdom | GPU RTL Design Intern |
 | [Softwire](https://www.softwire.com/vacancy/software-development-internship-2/) | London, United Kingdom | Software Development Internship |
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science---Machine-Learning-Internship--Summer-2023-_R442) | London, UK | Data Science / Machine Learning Internship |
+| [Ericsson](https://jobs.ericsson.com/job/Dublin-Cloud-Integration-Engineer-Intern-Lein/747682202/?feedId=47200&utm_source=Indeed&utm_campaign=Ericsson_Indeed) | Dublin, Leinster, Ireland | Cloud Integration Engineer Intern |
