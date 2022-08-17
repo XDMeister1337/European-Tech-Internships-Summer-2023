@@ -39,3 +39,4 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Castleton Commodities International](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Data-Science---Machine-Learning-Internship--Summer-2023-_R442) | London, UK | Data Science / Machine Learning Internship |
 | [Ericsson](https://jobs.ericsson.com/job/Dublin-Cloud-Integration-Engineer-Intern-Lein/747682202/?feedId=47200&utm_source=Indeed&utm_campaign=Ericsson_Indeed) | Dublin, Leinster, Ireland | Cloud Integration Engineer Intern |
 | [Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Cork-IRL/Engineering-Internship-2023--Qualcomm--Cork_3040904) | Ireland | Engineering Internship |
+| [Databricks](https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289929002) | Amsterdam, Netherlands | Software Engineering Intern |
