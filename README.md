@@ -44,8 +44,7 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Capstone](https://www.capstoneco.com/careers/2023-summer-internship-software-engineer-ldn/?gh_jid=6176861002) | London, England | Software Engineer |
 | [Capstone](https://www.capstoneco.com/careers/2023-summer-internship-quantitative-risk-ldn/?gh_jid=6176476002)  | London, England | Quantitative Risk |
 | [Amazon](https://www.amazon.jobs/en/jobs/2206813/2023-security-engineer-intern) | United Kingdom | Security Engineer |
-| [HP](https://careers.hpe.com/us/en/job/HPE1US1133506EXTERNALENUS/Software-Engineering-Intern?utm_source=indeed&utm_medium=phenom-feeds) | Ireland | Software Engineering Intern
- |
+| [HP](https://careers.hpe.com/us/en/job/HPE1US1133506EXTERNALENUS/Software-Engineering-Intern?utm_source=indeed&utm_medium=phenom-feeds) | Ireland | Software Engineering Intern |
  | [Amazon](https://www.amazon.jobs/en/jobs/2206808/2023-systems-development-engineer-intern) | Ireland | Systems Development Engineer Intern |
  | [Microsoft](https://careers.microsoft.com/us/en/job/1446429/Product-Manager-Internship-Opportunities-Ireland-Start-date-Summer-2023?jobsource=indeed&utm_source=indeed&utm_medium=indeed&utm_campaign=indeed-feed) | Ireland | Product Manager Internship |
  | [Amazon](https://www.amazon.jobs/en/jobs/2206814/2023-network-development-engineer-intern) | Ireland | Network Development Engineer Intern |
