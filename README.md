@@ -43,3 +43,4 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [BCG](https://careers.bcg.com/job/BCG1US10031495EXTERNALENUS/Visiting-Software-Engineer-internship?rx_campaign=indeed0&rx_group=130394&rx_job=10031495_823a7&rx_r=none&rx_source=Indeed&rx_ts=20220818T161708Z&utm_campaign=indeed_datascienceanalytics&utm_medium=paid&utm_source=jobboards_phenomfeeds&rx_p=PKH4QPBTWR&rx_viewer=455c91affb0711eca3e0a1547e43b331376067b75c424f9eac3e3335c88caab1) | United Kingdom, Germany, and more | Software Engineer (internship) |
 | [Capstone](https://www.capstoneco.com/careers/2023-summer-internship-software-engineer-ldn/?gh_jid=6176861002) | London, England | Software Engineer |
 | [Capstone](https://www.capstoneco.com/careers/2023-summer-internship-quantitative-risk-ldn/?gh_jid=6176476002)  | London, England | Quantitative Risk |
+| [Amazon](https://www.amazon.jobs/en/jobs/2206813/2023-security-engineer-intern) | United Kingdom | Security Engineer |
