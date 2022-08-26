@@ -50,3 +50,4 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
  | [Amazon](https://www.amazon.jobs/en/jobs/2206814/2023-network-development-engineer-intern) | Ireland | Network Development Engineer Intern |
  | [Amazon](https://www.amazon.jobs/en/jobs/2202300/2023-software-development-engineer-internship) | Ireland  | Software Development Engineer Internship |
  | [Amazon](https://www.amazon.jobs/en/jobs/2201688/2023-cloud-support-associate-internship) | Ireland | Cloud Support Associate Internship |
+ | [Amazon](https://www.amazon.jobs/en/jobs/2204061/2023-software-development-engineer-internship) | United Kingdom | Software Development Engineer Internship |
