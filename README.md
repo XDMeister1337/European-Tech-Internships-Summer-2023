@@ -57,3 +57,4 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
  | [Palantir](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602) | London, United Kingdom | Software Engineer, Internship |
  | [Amazon](https://www.amazon.jobs/en/jobs/2213879/2023-business-intelligence-engineer-internship) | London, United Kingdom | Business Intelligence Engineer Internship |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Data-Business-Analyst-Intern-Placement-year-UK/1384132) | Feltham, United Kingdom | Data / Business Analyst Intern |
+| [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Network-Engineer-Intern-Placement-Year-UK/1384138) | Feltham, United Kingdom | Network Engineer Intern |
